@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "524937143065",
+    "firebase_url": "https://clypapp.firebaseio.com",
+    "project_id": "clypapp",
+    "storage_bucket": "clypapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524937143065:android:ceeea35ef1cf8f9eb35b88",
+        "android_client_info": {
+          "package_name": "com.example.clypapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524937143065-pk8aga9b8em53mrgoate07262j3qjeru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgrFMSqsBZeuTHgNffz0P0iMQLYf-T92I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524937143065-pk8aga9b8em53mrgoate07262j3qjeru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
